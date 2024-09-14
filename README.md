@@ -34,5 +34,4 @@
     </ul>
     <h2>Contributing</h2>
     <p>Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+   <br/>
