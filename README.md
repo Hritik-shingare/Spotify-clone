@@ -32,6 +32,6 @@
         <li>Search functionality for tracks and playlists</li>
         <li>Interactive elements and user interactions</li>
     </ul>
-    <h2>Contributing</h2>
+   
 
  
